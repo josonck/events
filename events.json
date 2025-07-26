@@ -9464,6 +9464,17 @@
     "borderColor": "Black"
   },
   {
+    "id": "3b67a033-8e43-4259-adb6-56834b6276db",
+    "title": "",
+    "start": "2025-09-15 14:30:00",
+    "end": "2025-09-23 10:00:00",
+    "guestname": "Koen",
+    "guestphone": "",
+    "adults": "2",
+    "children": "0",
+    "price": "1"
+  },
+  {
     "id": "3bc3504f-23bd-465b-934b-94d04147c8b7",
     "title": "Ciro Dati 3A3C   (+39 351 798 6834) Agreed price : 1 €",
     "start": "2025-09-29 14:30:00",
@@ -9588,17 +9599,6 @@
     "guestphone": "+39 333 169 8181",
     "adults": "3",
     "children": "2",
-    "price": "1"
-  },
-  {
-    "id": "3b67a033-8e43-4259-adb6-56834b6276db",
-    "title": "",
-    "start": "2025-09-15 14:30:00",
-    "end": "2025-09-23 10:00:00",
-    "guestname": "Koen",
-    "guestphone": "",
-    "adults": "2",
-    "children": "0",
     "price": "1"
   },
   {
